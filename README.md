@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hey! 👋
 
-<!--
-**EddieLeach/EddieLeach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍👧‍👧👩‍👧 I'm a husband and father
+- 🧮 I have a degree in Math
+- 👨‍🏫 I taught middle school math for 8 years 
+- 🥾 I recently completed a 20 week Cloud Engineering Bootcamp
+- ☁ I'm a certified AWS Cloud Practicioner
+- 🥾 I’m looking to colaborate on DevOps, Data, and Cloud Projects
+- 📚 I'm currently learning, Python, SQL, and GitHub
+- 📫 Ask me about leverageing AWS Cloud Computing
+- 📬 Contact me on LinkedIn @ www.linkedin.com/in/eddie-leach-tech
