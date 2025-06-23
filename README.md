@@ -1,6 +1,6 @@
 # Hi, I'm Eddie! 👋 
-## I would love the chance to discus anything tech and colaborate on projects!
-### A quick about me:
+## Let's talk Tech and colaborate!
+### About me:
 - 👨‍👧‍👧👩‍👧 I'm a husband and father
 - 🧮 I have a degree in Math
 - 👨‍🏫 I taught middle school math for 8 years 
