@@ -3,7 +3,7 @@
 Hi! I’m Eddie — former math teacher turned Cloud/Data builder. I design **scalable, highly available, cost‑optimized** solutions on **AWS** and ship data pipelines that turn raw events into insights.
 
 **Now:** studying for AWS SAA, building Snowflake/AWS pipelines, and shipping small tools weekly.  
-**Interests:** serverless, IaC, data engineering, analytics engineering, cost optimization.
+**Interests:** gen AI, serverless, IaC, data engineering, analytics engineering, cost optimization.
 
 ## 🧱 Featured Projects
 - **AWS Cloud Migration Project** – IAM, EC2, S3, EBS, EFS (mount helper fix), _Scalable + cost aware_
