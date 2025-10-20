@@ -1,4 +1,4 @@
-# Eddie Leach - Cloud & Data Engineer (DFW)
+# Eddie Leach - Data Analyst | Cloud Practitioner | AI Enthusiast (DFW)
 
 Hi! I’m Eddie — former math teacher turned Cloud/Data builder. I design **scalable, highly available, cost‑optimized** solutions on **AWS** and ship data pipelines that turn raw events into insights.
 
