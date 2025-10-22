@@ -3,7 +3,8 @@
 ## 👨‍💻 Featured Projects:
 
 - ### AWS Cloud
-  - [AWS Cloud Migration](https://github.com/EddieLeach/AWS-Cloud-Migration-Project)
+  - [Full Cloud/Hybrid Cloud Architecture and Cost Optimization](https://github.com/EddieLeach/AWS-Full-Cloud-and-Hybrid-Cloud-Architecture-and-Cost-Optimization-)
+  - [Cloud Migration](https://github.com/EddieLeach/AWS-Cloud-Migration-Project)
 - ### Python
   -
 - ### System Administration and Bash Scripting<b>
