@@ -1,24 +1,15 @@
-# Eddie Leach - Data Analyst | Cloud Practitioner | AI Enthusiast (DFW)
+<h1>Hi, I'm Eddie!</h1>
+<h2>Cloud and Data Professional<h2>
+<h2>👨‍💻 Featured Projects:</h2>
 
-Hi! I’m Eddie — former math teacher turned Cloud/Data builder. I design **scalable, highly available, cost‑optimized** solutions on **AWS** and ship data pipelines that turn raw events into insights.
+- <b>AWS Cloud</b>
+  - [AWS Cloud Migration](https://github.com/EddieLeach/AWS-Cloud-Migration-Project)
+  - 
+- <b>Python</b>
+  -
 
-**Now:** studying for AWS SAA, building Snowflake/AWS pipelines, and shipping small tools weekly.  
-**Interests:** gen AI, serverless, IaC, data engineering, analytics engineering, cost optimization.
+<h2> 🤳 Connect with me:</h2>
 
-## 🧱 Featured Projects
-- **AWS Cloud Migration Project** – IAM, EC2, S3, EBS, EFS (mount helper fix), _Scalable + cost aware_
-- **Linux Virtual Machine Automation** – Linux Ubuntu VM, Permisions, Automated tasks, Bash Scripts, Alerts
-- **Snowflake Data Pipeline** – Snowpark + DataFrame API, warehouse governance & RBAC
-- **Python OOP Game Development** – Refactored Codebase, Debugging, Restructured Loops, Refining Class Design, Optimized Performance
+[<img align="left" alt="EddieLeach | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-> I’m actively looking for roles in **Cloud & Data Engineering / Analyst**.
-
-## 🧰 Toolbox
-**AWS / Cloud:** EC2, S3, IAM, SEcurity Groups, VPC, CloudFront, CloudWatch, Cost Optimization, AWS CLI, Well-Architected Framework  
-**Data Analytics:** Snowflake, SQL, Python, Data Warehousing, Querying, Data Transformation, Scripting   
-**Software Development:** Python (Pygame, OOP Design, Debugging, Refactoring) Git & Version Control, Virtual Machines (Linux Ubuntu Setup/Configuration)  
-**Professional Skills:** Technical Writing, Documentation Data Analysis, Visualization Presentation, Team Collaboration Time, Project Management
-
-## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/eddie-leach-tech/
-- Email: william.leach025@gmail.com
+[linkedin]: https://linkedin.com/in/eddie-leach-tech/
