@@ -2,9 +2,10 @@
 ## Cloud and Data Professional
 ## 👨‍💻 Featured Projects:
 
-- ### AWS Cloud
+- ### AWS and Cloud Computing
   - [Full Cloud/Hybrid Cloud Architecture and Cost Optimization](https://github.com/EddieLeach/AWS-Full-Cloud-and-Hybrid-Cloud-Architecture-and-Cost-Optimization-)
   - [Cloud Migration](https://github.com/EddieLeach/AWS-Cloud-Migration-Project)
+  - [SaaS, IaaS, and PaaS Comparison]()
 - ### Python
   -
 - ### System Administration and Bash Scripting<b>
