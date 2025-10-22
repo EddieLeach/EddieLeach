@@ -10,7 +10,7 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 
 ---
 
-### 🧾 Certifications  
+### 🧾 Certifications and Badges  
 
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehousing-29B5E8?logo=snowflake&logoColor=white)
