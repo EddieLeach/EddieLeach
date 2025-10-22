@@ -1,15 +1,14 @@
-<h1>Hi, I'm Eddie!</h1>
-<h2>Cloud and Data Professional<h2>
-<h2>👨‍💻 Featured Projects:</h2>
+# Hi, I'm Eddie!
+## Cloud and Data Professional
+## 👨‍💻 Featured Projects:
 
-- <b>AWS Cloud</b>
+- ### AWS Cloud
   - [AWS Cloud Migration](https://github.com/EddieLeach/AWS-Cloud-Migration-Project)
-  - 
-- <b>Python</b>
+- ### Python
   -
-- <b>System Administration and Bash Scripting<b>
-  - [Linux Virtual Machine, Autoation, and ClI Administration](https://github.com/EddieLeach/Linux-Virtual-Machine-Automation-and-CLI-Administration)
-<h2> 🤳 Connect with me:</h2>
+- ### System Administration and Bash Scripting<b>
+  - [Linux Virtual Machine, Automation, and CLI Administration](https://github.com/EddieLeach/Linux-Virtual-Machine-Automation-and-CLI-Administration)
+## 🤳 Connect with me:
 
 [<img align="left" alt="EddieLeach | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
