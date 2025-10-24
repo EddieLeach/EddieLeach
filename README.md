@@ -34,6 +34,9 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Workflow-4169E1)
 ![Networking](https://img.shields.io/badge/Networking-VPC%20%7C%20Subnets%20%7C%20DNS-0A66C2?logo=cisco&logoColor=white)
 ![Cloud Security](https://img.shields.io/badge/Security-IAM%20%7C%20Policies%20%7C%20Encryption-0078D4)
+![CLI](https://img.shields.io/badge/Command--Line-2C2C32?logo=gnometerminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+![WSL_CLI](https://img.shields.io/badge/-WSL_CLI-0078D6?logo=linux&logoColor=white)
 
 ---
 
