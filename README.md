@@ -45,7 +45,7 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 - [SaaS, IaaS, and PaaS Comparison](https://github.com/EddieLeach/SaaS-PaaS-IaaS-Comparison)
 
 ### 🐍 Python  
-- _Coming soon: Data automation & analytics projects_  
+- [Python OOP Game Development](https://github.com/EddieLeach/Python-OOP-Game-Development)
 
 ### 🧩 System Administration & Bash Scripting  
 - [Linux Virtual Machine, Automation, and CLI Administration](https://github.com/EddieLeach/Linux-Virtual-Machine-Automation-and-CLI-Administration)
