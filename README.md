@@ -43,7 +43,7 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 ## 👨‍💻 Featured Projects  
 
 ### 💡 Full Stack & Cloud Applications
-- [Tutoring Tracker App (C#, Azure, SQLite, EF Core)](https://github.com/yourusername/TutoringTracker)
+- [Tutoring Tracker App (C#, Azure, SQLite, EF Core)](https://github.com/EddieLeach/TutoringTracker)
 - _Deployed full-stack .NET 8 web app with live Azure deployment, admin dashboard, and student check-in portal._
 
 
