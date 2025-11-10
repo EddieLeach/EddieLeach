@@ -46,10 +46,11 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 
 ## 👨‍💻 Featured Projects  
 
+### 🧱 Data Engineering
+- [End-to-End Retail Data Analytics Pipeline](https://github.com/EddieLeach/end-to-end-retail-analytics)  
+
 ### 💡 Full Stack & Cloud Applications
 - [Tutoring Tracker App (C#, Azure, SQLite, EF Core)](https://github.com/EddieLeach/TutoringTracker)
-- _Deployed full-stack .NET 8 web app with live Azure deployment, admin dashboard, and student check-in portal._
-
 
 ### ☁️ AWS & Cloud Computing  
 - [Full Cloud/Hybrid Cloud Architecture and Cost Optimization](https://github.com/EddieLeach/AWS-Full-Cloud-and-Hybrid-Cloud-Architecture-and-Cost-Optimization-)  
