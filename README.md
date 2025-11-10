@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me  
-I’m a former **mathematics educator turned cloud and data professional** passionate about building scalable, data-driven cloud solutions.  
+I’m a former **mathematics educator turned cloud and data engineer** passionate about building scalable, data-driven cloud solutions.  
 I specialize in **AWS cloud architecture**, **data engineering**, and **automation**, with a strong focus on **cost optimization**, **efficiency**, and **continuous learning**.  
 Currently, I’m advancing my skills in **DevOps**, **networking**, and **data infrastructure**, preparing to design and deploy high-performance systems that bridge analytics and cloud innovation.  
 
