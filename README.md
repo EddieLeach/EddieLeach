@@ -41,6 +41,7 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 ![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Cloud-29B5E8?logo=snowflake&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL%20CLI-Linux%20on%20Windows-0078D4)
 ![GenAI](https://img.shields.io/badge/GenAI-ChatGPT%20%7C%20Amazon%20Q%20%7C%20Gemini%20%7C%20GitHub%20Copilot-10A37F?logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
