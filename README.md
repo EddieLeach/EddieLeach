@@ -52,6 +52,9 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 ### 💡 Full Stack & Cloud Applications
 - [Tutoring Tracker App (C#, Azure, SQLite, EF Core)](https://github.com/EddieLeach/TutoringTracker)
 
+### 📊 Data Visualization & Business Intelligence
+- [Tutoring Sessions Power BI Dashboard](https://github.com/EddieLeach/tutoring-sessions-powerbi-dashboard)  
+
 ### ☁️ AWS & Cloud Computing  
 - [Full Cloud/Hybrid Cloud Architecture and Cost Optimization](https://github.com/EddieLeach/AWS-Full-Cloud-and-Hybrid-Cloud-Architecture-and-Cost-Optimization-)  
 - [AWS Cloud Migration Project](https://github.com/EddieLeach/AWS-Cloud-Migration-Project)  
