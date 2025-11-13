@@ -62,6 +62,9 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 - [AWS Cloud Migration Project](https://github.com/EddieLeach/AWS-Cloud-Migration-Project)  
 - [SaaS, IaaS, and PaaS Comparison](https://github.com/EddieLeach/SaaS-PaaS-IaaS-Comparison)
 
+### 🧠 GenAI & AI-Assisted Development  
+- [Amazon Q Developer Tank Game (AI-Generated Python Game)](https://github.com/EddieLeach/amazon-q-tank-game)
+
 ### 🐍 Python  
 - [Python OOP Game Development](https://github.com/EddieLeach/Python-OOP-Game-Development)
 
