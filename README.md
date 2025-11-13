@@ -71,15 +71,11 @@ Currently, I’m advancing my skills in **DevOps**, **networking**, and **data i
 ### 🧩 System Administration & Bash Scripting  
 - [Linux Virtual Machine, Automation, and CLI Administration](https://github.com/EddieLeach/Linux-Virtual-Machine-Automation-and-CLI-Administration)
 
----
-<!--
 ### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EddieLeach&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieLeach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
-</p>
--->
 
 ## 🤳 Connect with Me  
 
